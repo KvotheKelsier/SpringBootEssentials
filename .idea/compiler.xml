@@ -9,8 +9,8 @@
         <module name="Spring Boot APIs" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Spring Boot APIs" target="1.6" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="Spring Boot APIs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -5,6 +5,9 @@ public class Topic {
     private String name;
     private String id;
 
+    Topic(){
+
+    }
     public Topic(String name, String id) {
         this.name = name;
         this.id = id;
